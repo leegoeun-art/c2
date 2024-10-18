@@ -3,8 +3,8 @@
 //#include <time.h>
 //#define SIZE 5
 //
-////³­¼ö »ý¼º > ¹è¿­¿¡ ´ã°í Ãâ·ÂÇÏ´Â ÄÚµå , srand ±×³É ÄÚµå¸¦ ¿Ü¿ì±â
-////0ºÎÅÍ 100 »çÀÌÀÇ random °ªÀÌ 01234 ¿¡ µé¾î°¡´Â °É º¼ ¼ö ÀÖÀ½.
+////ë‚œìˆ˜ ìƒì„± > ë°°ì—´ì— ë‹´ê³  ì¶œë ¥í•˜ëŠ” ì½”ë“œ , srand ê·¸ëƒ¥ ì½”ë“œë¥¼ ì™¸ìš°ê¸°
+////0ë¶€í„° 100 ì‚¬ì´ì˜ random ê°’ì´ 01234 ì— ë“¤ì–´ê°€ëŠ” ê±¸ ë³¼ ìˆ˜ ìžˆìŒ.
 //
 //int main(void)
 //{
