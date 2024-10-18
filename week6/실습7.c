@@ -15,7 +15,7 @@
 //    for (i = 0; i < ROWS; i++) {
 //        double final_scores = a[i][0] * 0.3 + a[i][1] * 0.4 +
 //            a[i][2] * 0.2 + a[i][3] * 0.1 - a[i][4];
-//        printf("ÇÐ»ý #%iÀÇ ÃÖÁ¾¼ºÀû=%10.2f \n", i + 1, final_scores);
+//        printf("Ã‡ÃÂ»Ã½ #%iÃ€Ã‡ ÃƒÃ–ÃÂ¾Â¼ÂºÃ€Ã»=%10.2f \n", i + 1, final_scores);
 //    }
 //    return 0;
 //}
