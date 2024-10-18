@@ -9,14 +9,14 @@
 //
 //    for (i = 0; i < STUDENTS; i++)
 //    {
-//        printf("ÇÐ»ýµéÀÇ ¼ºÀûÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+//        printf("í•™ìƒë“¤ì˜ ì„±ì ì„ ìž…ë ¥í•˜ì‹œì˜¤: ");
 //        scanf_s("%d", &scores[i]);
 //    }
 //    for (i = 0; i < STUDENTS; i++)
 //        sum += scores[i];
 //
 //    average = sum / STUDENTS;
-//    printf("¼ºÀû Æò±Õ= %d\n", average);
+//    printf("ì„±ì  í‰ê· = %d\n", average);
 //
 //    return 0;
 //}
