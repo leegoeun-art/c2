@@ -1,6 +1,6 @@
-#include <stdio.h> // µğ¹ö±× - Ã¢ - ¸Ş¸ğ¸® - arr Ä¡°í º¯¼ö  4 ¹ÙÀÌÆ® Ç¥Çö
+#include <stdio.h> // ë””ë²„ê·¸ - ì°½ - ë©”ëª¨ë¦¬ - arr ì¹˜ê³  ë³€ìˆ˜  4 ë°”ì´íŠ¸ í‘œí˜„
 
-//arr 1,2,3 arrlen 1,2,3 ´Ù ¸Ş¸ğ¸® Ã¢ ¶ç¿ö¼­ Á¶»ç½Ä º¸±â 
+//arr 1,2,3 arrlen 1,2,3 ë‹¤ ë©”ëª¨ë¦¬ ì°½ ë„ì›Œì„œ ì¡°ì‚¬ì‹ ë³´ê¸° 
 int main(void)
 {
 	int arr1[5] = { 1,2,3,4,5 };
@@ -9,13 +9,13 @@ int main(void)
 	
 	int ar1Len, ar2Len, ar3Len, i;
 
-	printf("¹è¿­ arr1ÀÇ Å©±â: %d \n", sizeof(arr1));
-	printf("¹è¿­ arr2ÀÇ Å©±â : %d \n", sizeof(arr2));
-	printf("¹è¿­ arr3ÀÇ Å©±â : %d \n", sizeof(arr3));
+	printf("ë°°ì—´ arr1ì˜ í¬ê¸°: %d \n", sizeof(arr1));
+	printf("ë°°ì—´ arr2ì˜ í¬ê¸° : %d \n", sizeof(arr2));
+	printf("ë°°ì—´ arr3ì˜ í¬ê¸° : %d \n", sizeof(arr3));
 	
 	ar1Len = sizeof(arr1) / sizeof(int);
 	ar2Len = sizeof(arr2) / sizeof(int);
-	ar3Len = sizeof(arr3) / sizeof(int); //¹è¿­ÀÇ Å©±â, ±æÀÌ, size ¾Ë ¼ö ÀÖÀ½. = ¹è¿­ÀÇ element. ÀÌ ÄÚµå Ã¤¿ö³ÖÀ¸¶ó°í ÇÒ µí ½ÃÇè.
+	ar3Len = sizeof(arr3) / sizeof(int); //ë°°ì—´ì˜ í¬ê¸°, ê¸¸ì´, size ì•Œ ìˆ˜ ìˆìŒ. = ë°°ì—´ì˜ element. ì´ ì½”ë“œ ì±„ì›Œë„£ìœ¼ë¼ê³  í•  ë“¯ ì‹œí—˜.
 
 	for (i = 0; i < ar1Len; i++)
 	{
