@@ -34,10 +34,10 @@
 //
 //int main(void)
 //{
-//	printf("º¯È¯Àü ÀÌ¹ÌÁö\n");
+//	printf("ë³€í™˜ì „ ì´ë¯¸ì§€\n");
 //	display(image);
 //	inverse(image);
-//	printf("\n\nº¯È¯ÈÄ ÀÌ¹ÌÁö\n");
+//	printf("\n\në³€í™˜í›„ ì´ë¯¸ì§€\n");
 //	display(image);
 //	return 0;
 //}
