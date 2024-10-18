@@ -26,6 +26,6 @@
 //		if (prices[i] > maximum)
 //			maximum = prices[i];
 //	}
-//	printf("�ִ밪�� %d�Դϴ�.\n", maximum);
+//	printf("ÃÖ´ë°ªÀº %dÀÔ´Ï´Ù.\n", maximum);
 //	return 0;
 //}
