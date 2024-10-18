@@ -6,9 +6,9 @@
 //
 //int main(void)
 //{
-//    int s[ROWS][COLS]; // 2Â÷¿ø ¹è¿­ ¼±¾ğ
-//    int i, j; // 2°³ÀÇ ÀÎµ¦½º º¯¼ö
-//    srand((unsigned)time(NULL)); // ³­¼ö »ı¼º±â ÃÊ±âÈ­
+//    int s[ROWS][COLS]; // 2ì°¨ì› ë°°ì—´ ì„ ì–¸
+//    int i, j; // 2ê°œì˜ ì¸ë±ìŠ¤ ë³€ìˆ˜
+//    srand((unsigned)time(NULL)); // ë‚œìˆ˜ ìƒì„±ê¸° ì´ˆê¸°í™”
 //
 //    for (i = 0; i < ROWS; i++)
 //        for (j = 0; j < COLS; j++)
