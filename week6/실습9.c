@@ -12,7 +12,7 @@
 //    int total_sale;
 //
 //    total_sale = sum(sales);
-//    printf("�Ѹ����� %d�Դϴ�.\n", total_sale);
+//    printf("ÃÑ¸ÅÃâÀº %dÀÔ´Ï´Ù.\n", total_sale);
 //
 //
 //    return 0;
