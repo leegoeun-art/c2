@@ -12,12 +12,12 @@ int main(void)
 	struct student s; // s is a student structure variable
 
 	s.number = 20230001;
-	strcpy(s.name, "ȫ�浿"); // Use strcpy() for cross-platform compatibility
+	strcpy(s.name, "È«±æµ¿"); // Use strcpy() for cross-platform compatibility
 	s.grade = 4.3;
 
-	printf("�й�: %d\n", s.number);
-	printf("�̸�: %s\n", s.name);
-	printf("����: %.2f\n", s.grade);
+	printf("ÇÐ¹ø: %d\n", s.number);
+	printf("ÀÌ¸§: %s\n", s.name);
+	printf("ÇÐÁ¡: %.2f\n", s.grade);
 
 	return 0;
 }
