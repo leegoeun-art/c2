@@ -11,16 +11,16 @@
 //	int xdiff, ydiff;
 //	double dist;
 //
-//	printf("Á¡ÀÇ ÁÂÇ¥¸¦ ÀÔ·ÂÇÏ½Ã¿À(x  y): ");
+//	printf("ì ì˜ ì¢Œí‘œë¥¼ ì…ë ¥í•˜ì‹œì˜¤(x  y): ");
 //	scanf_s("%d %d", &p1.x, &p1.y);
 //
-//	printf("Á¡ÀÇ ÁÂÇ¥¸¦ ÀÔ·ÂÇÏ½Ã¿À(x  y): ");
+//	printf("ì ì˜ ì¢Œí‘œë¥¼ ì…ë ¥í•˜ì‹œì˜¤(x  y): ");
 //	scanf_s("%d %d", &p2.x, &p2.y);
 //
 //	xdiff = p1.x - p2.x;
 //	ydiff = p1.y - p2.y;
 //
 //	dist = sqrt((double)(xdiff * xdiff + ydiff * ydiff));
-//	printf("°Å¸®´Â %fÀÔ´Ï´Ù.\n", dist);
+//	printf("ê±°ë¦¬ëŠ” %fì…ë‹ˆë‹¤.\n", dist);
 //	return 0;
 //}
