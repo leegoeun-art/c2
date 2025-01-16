@@ -10,17 +10,17 @@
 //{
 //	struct student s;
 //
-//	printf("ÇĞ¹øÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+//	printf("í•™ë²ˆì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 //	scanf_s("%d", &s.number);
 //
-//	printf("ÀÌ¸§À» ÀÔ·ÂÇÏ½Ã¿À: ");
+//	printf("ì´ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 //	scanf_s("%s", s.name);
 //
-//	printf("ÇĞÁ¡À» ÀÔ·ÂÇÏ½Ã¿À(½Ç¼ö): ");
+//	printf("í•™ì ì„ ì…ë ¥í•˜ì‹œì˜¤(ì‹¤ìˆ˜): ");
 //	scanf_s("%lf", &s.grade);
 //
-//	printf("\nÇĞ¹ø: % d \n", s.number);
-//		printf("ÀÌ¸§: %s\n", s.name);
-//	printf("ÇĞÁ¡: %.2f\n", s.grade);
+//	printf("\ní•™ë²ˆ: % d \n", s.number);
+//		printf("ì´ë¦„: %s\n", s.name);
+//	printf("í•™ì : %.2f\n", s.grade);
 //	return 0;
 //}
